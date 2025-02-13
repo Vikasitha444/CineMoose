@@ -1,16 +1,58 @@
-# calculator
+# 🎬 CineMoose
 
-A new Flutter project.
+> Your Personal Movie Recommendation Companion
 
-## Getting Started
+CineMoose is a simple and fun Flutter app that helps you discover movies based on your preferences and current mood.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Select your favorite movie genres
+- Share your favorite movie
+- Get mood-based movie recommendations
+- Simple and user-friendly interface
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Local Storage for saving preferences
+
+## 📱 Screenshots
+
+[Add your app screenshots here]
+
+## 🚀 Getting Started
+
+To run this app locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Vikasitha444/CineMoose.git
+
+# Navigate to the project directory
+cd CineMoose
+
+# Get Flutter dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## 📋 Requirements
+
+- Flutter 3.0 or higher
+- Dart SDK 2.17 or higher
+- Android Studio / VS Code
+- Android SDK / iOS SDK
+
+## 💡 How It Works
+
+1. Choose your favorite movie genres
+2. Tell us about a movie you love
+3. Share your current mood
+4. Get a movie recommendation that matches your preferences
+
+## 📝 License
+
+This project is licensed under the MIT License.
